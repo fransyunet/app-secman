@@ -1,0 +1,13 @@
+1. Membuat folder baru
+2. Inisiasi repositori GIT
+
+	
+---------
+3.Membuat folder kosong
+4.Inisialisasi repository GIT
+	- GIT init
+	
+5.Buat Ignore File
+ - membuat file-2 yang tidak kita simpan dalam repository
+ 
+6.Simpan ke respository local

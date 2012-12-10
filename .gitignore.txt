@@ -1,0 +1,4 @@
+# file yg tidak di reload ke GIT
+
+*.class
+*.java
