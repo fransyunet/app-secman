@@ -1,13 +1,29 @@
 1. Membuat folder baru
 2. Inisiasi repositori GIT
-
+fransyunet
+yunianto123!@#
 	
 ---------
-3.Membuat folder kosong
-4.Inisialisasi repository GIT
+1.Membuat folder kosong
+2.Inisialisasi repository GIT
 	- GIT init
 	
-5.Buat Ignore File
+3.Buat Ignore File
  - membuat file-2 yang tidak kita simpan dalam repository
+ - ( .gitigore )
  
-6.Simpan ke respository local
+4.Setup username dan email
+	git config --global user.email "frans.yunet@gmail.com"
+	git config --global user.name "fransyunet"
+	
+5. Commit (save) ke repository local
+	git .add
+	git commit -m "commit pertama"
+
+6. Mendaftarkan repository remote
+
+	https://github.com/fransyunet/app-secman.git
+	
+	
+	git remote add origin https://github.com/fransyunet/app-secman.git
+	git push -u origin master
